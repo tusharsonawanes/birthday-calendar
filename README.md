@@ -1,3 +1,5 @@
+![](.pictures/preview.png)
+
 # Smart Birthdays
 Do you have a large group of people where you find it difficult to keep a track of everyones birthday. Well, no more. Using Smart Birthdays, create a google calendar event for the individual members birthday and get a pop up notification and mail for the upcoming birthdays of your group members. This blocks the provided email id's calendar for the entire day, post their event acceptance. 
 
