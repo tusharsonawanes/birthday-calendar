@@ -21,9 +21,9 @@ All you need is a
 2. Create a project with your desired name.
 3. The official google documentation on how to use Google Workspace API using python can be accessed here - https://developers.google.com/calendar/api/quickstart/python 
 4. Follow only steps mentioned below, from the above document
-    a. Enable the API
-    b. Configure the OAuth consent screen
-    c. Authorize credentials for a desktop application
-    d. Install the Google client library
+    - Enable the API
+    - Configure the OAuth consent screen
+    - Authorize credentials for a desktop application
+    - Install the Google client library
 5. Once done, refer to the sample excel file in the data folder, replace the sample content with some real data (birthdates, names and instagram ID's of your group members)
 6. Run the app.py
