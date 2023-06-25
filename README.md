@@ -27,5 +27,5 @@ All you need is a
     - Configure the OAuth consent screen
     - Authorize credentials for a desktop application
     - Install the Google client library
-5. Once done, refer to the sample excel file in the data folder, replace the sample content with some real data (birthdates, names and instagram ID's of your group members)
+5. Once done, refer to the sample excel file in the data folder, replace the sample content with some real data (birthdates, names and instagram ID's of your group members), without touching the headers.
 6. Run the app.py
